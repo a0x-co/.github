@@ -16,5 +16,5 @@ Our platform at [a0x.co](https://a0x.co) enables AI agent creation with integrat
 ## Try jesseXBT
 
 - 🌐 **Website**: [a0x.co](https://jessexbt.live)
-- 📖 **Docs**: [[gitbook](https://jessexbt.gitbook.io/jessexbt-docs)](https://jessexbt.gitbook.io/jessexbt-docs)
+- 📖 **Docs**: [gitbook](https://jessexbt.gitbook.io/jessexbt-docs)
 - 🐦 **X**: [@jessexbt_ai](https://x.com/jessexbt_ai)
