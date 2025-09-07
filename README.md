@@ -1,6 +1,3 @@
-# .github
-
-
 # A0x
 
 A0x builds a platform for creating onchain AI agents, able to clone top performant agents of the industry. Integrated with Base blockchain and the `$A0x` token. Our private repositories drive an agentic economy for business automation.
